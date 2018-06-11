@@ -1,0 +1,78 @@
+h1{background-color: green;
+border-round:20%;}
+.one{ display:block;
+background-color:yellow;
+   padding: 3px;
+text-decoration: none;
+align-content: center;}
+a{margin:5px;
+align-content: center;}
+a:visted{background-color: red}
+a:active{background-color:blue}
+a:hover{background-color: black}
+span{background-color: red;}
+.first{background-color: greenyellow;
+    box-shadow: 5px 5px  blue;
+height: 
+    400px;
+width:200px;
+border-radius: 10%;}
+.photo{height:150px;width: 200Px;
+    border-radius: 10%;
+}
+.two{ text-align: left;
+font-size: 20px}
+*{background-color:;}
+.five{background-color: blue;
+height: 500px;
+width: 100%;
+padding: 0px;}
+.us{text-indent: 20px}
+
+.about{
+}
+.contact{text-align: righ;
+    text-indent: 20px;
+
+}
+.u{text-indent: 20px;
+}
+.icon{height: 20px;
+width: 20px;}
+.copyright{background-color: grey;
+height:150px;
+width: 100%;
+    padding: 0px}
+.form{height:250px;
+width: 200px;
+    opacity:.90;
+position:absolute;
+top: 1500px;
+right: 0px;
+    }
+background-image: url(images/images/Aha-Soft-Free-Global-Security-Global-Network.ico)}
+@keyframes slider{
+    0%{left:0; }
+    20%{left: 0;}
+    25%{left: -100%;}
+    45%{left:-100%; }
+    50%{left:-100%; }
+    70%{left: -200%;}
+    75%{left: -200%;}
+    95%{left: -300%;}
+    100%{left:-400%; }
+}
+    .slider{overflow: hidden;}
+    .slider figure img { width: 20%;
+    float: left;}
+    .slider figure{position: relative;
+    width: 500%;
+        height: 50%;
+    margin: 0;
+    left: 0;
+    text-align: left;
+    font-size: 0;
+    animation: 20s slider infinite;}
+    }
+
+
